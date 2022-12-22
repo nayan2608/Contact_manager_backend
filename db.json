@@ -2,27 +2,28 @@
   "contacts": [
     {
       "id": "86072b03-26ed-4961-8a87-505876d8b481",
-      "name": "Jay Aghera",
-      "email": "abd@gmail.com",
-      "isContactAdded": false
+      "name": "Jay patel",
+      "email": "abd@gmail.com"
     },
     {
       "id": "9a101f64-3313-44d1-b20f-09a5892ecc8f",
-      "name": "Dhruvin",
-      "email": "dhru@gmail.com",
-      "isContactAdded": false
+      "name": "Dhruvin ",
+      "email": "dhru@gmail.com"
     },
     {
       "id": "bf795643-fd3c-450c-aa2e-a89bb3f6f7ea",
-      "name": "Archit Ramani",
-      "email": "architramani@gmail.com",
-      "isContactAdded": false
+      "name": "Archit",
+      "email": "architpatel@gmail.com"
     },
     {
       "id": "0bb1595f-64f4-460b-8bd6-4e951e41b59d",
-      "name": "jai",
-      "email": "jai@gmail.com",
-      "isContactAdded": false
+      "name": "jai ",
+      "email": "jai@gmail.com"
+    },
+    {
+      "id": "5793a19c-0f17-48ed-9d18-f140fbee021a",
+      "name": "ved",
+      "email": "ved@gmail.com"
     }
   ]
 }
